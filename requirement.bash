@@ -1,1 +1,1 @@
-pip install numpy pandas scikit-learn nltk spacy transformers torch beautifulsoup4 requests
+pip install numpy pandas scikit-learn nltk spacy transformers torch beautifulsoup4 requests 
